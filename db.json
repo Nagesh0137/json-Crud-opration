@@ -1,0 +1,127 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "id": 1,
+        "title": "Breaking News: Major Earthquake Hits City",
+        "description": "A powerful earthquake has struck the city, causing widespread damage and numerous casualties.",
+        "url": "https://example.com/breaking-news-major-earthquake-hits-city",
+        "urlToImage": "https://example.com/images/earthquake.jpg",
+        "publishedAt": "2024-08-14T10:00:00Z",
+        "source": {
+          "id": "news-source-1",
+          "name": "News Source 1"
+        }
+      },
+      {
+        "id": 2,
+        "title": "New Technology Innovations in 2024",
+        "description": "Explore the latest technological advancements and innovations that are shaping the future in 2024.",
+        "url": "https://example.com/new-technology-innovations-2024",
+        "urlToImage": "https://example.com/images/technology.jpg",
+        "publishedAt": "2024-08-14T09:30:00Z",
+        "source": {
+          "id": "news-source-2",
+          "name": "News Source 2"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Economic Growth Continues Despite Challenges",
+        "description": "The economy shows resilience and steady growth despite facing several challenges this year.",
+        "url": "https://example.com/economic-growth-continues",
+        "urlToImage": "https://example.com/images/economy.jpg",
+        "publishedAt": "2024-08-14T08:45:00Z",
+        "source": {
+          "id": "news-source-3",
+          "name": "News Source 3"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Global Climate Change Summit 2024",
+        "description": "World leaders gather to discuss and address the critical issues related to climate change at the global summit.",
+        "url": "https://example.com/global-climate-change-summit-2024",
+        "urlToImage": "https://example.com/images/climate-summit.jpg",
+        "publishedAt": "2024-08-14T07:30:00Z",
+        "source": {
+          "id": "news-source-4",
+          "name": "News Source 4"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Sports Update: Latest Scores and Highlights",
+        "description": "Catch up on the latest sports scores and highlights from the weekend's games.",
+        "url": "https://example.com/sports-update-latest-scores",
+        "urlToImage": "https://example.com/images/sports.jpg",
+        "publishedAt": "2024-08-14T06:00:00Z",
+        "source": {
+          "id": "news-source-5",
+          "name": "News Source 5"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Health Tips: Staying Fit in the Summer",
+        "description": "Discover effective health tips and strategies to stay fit and healthy during the summer season.",
+        "url": "https://example.com/health-tips-staying-fit-summer",
+        "urlToImage": "https://example.com/images/health.jpg",
+        "publishedAt": "2024-08-14T05:15:00Z",
+        "source": {
+          "id": "news-source-6",
+          "name": "News Source 6"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Entertainment News: Upcoming Movie Releases",
+        "description": "Get the scoop on the most anticipated movie releases and entertainment events happening this year.",
+        "url": "https://example.com/entertainment-news-upcoming-movies",
+        "urlToImage": "https://example.com/images/movies.jpg",
+        "publishedAt": "2024-08-14T04:30:00Z",
+        "source": {
+          "id": "news-source-7",
+          "name": "News Source 7"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Travel Guide: Top Destinations for 2024",
+        "description": "Explore the top travel destinations and vacation spots for 2024, with tips for planning your next trip.",
+        "url": "https://example.com/travel-guide-top-destinations-2024",
+        "urlToImage": "https://example.com/images/travel.jpg",
+        "publishedAt": "2024-08-14T03:45:00Z",
+        "source": {
+          "id": "news-source-8",
+          "name": "News Source 8"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Technology Review: Latest Gadgets and Reviews",
+        "description": "Read reviews of the latest gadgets and technology products that have been released this year.",
+        "url": "https://example.com/technology-review-latest-gadgets",
+        "urlToImage": "https://example.com/images/gadgets.jpg",
+        "publishedAt": "2024-08-14T02:00:00Z",
+        "source": {
+          "id": "news-source-9",
+          "name": "News Source 9"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Science Discoveries: Recent Breakthroughs",
+        "description": "Stay updated on the latest scientific discoveries and breakthroughs making headlines.",
+        "url": "https://example.com/science-discoveries-recent-breakthroughs",
+        "urlToImage": "https://example.com/images/science.jpg",
+        "publishedAt": "2024-08-14T01:15:00Z",
+        "source": {
+          "id": "news-source-10",
+          "name": "News Source 10"
+        }
+      }
+    ]
+  }
+  
